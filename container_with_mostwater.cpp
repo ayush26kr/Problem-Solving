@@ -34,7 +34,7 @@ int main()
     cout<<"Given numbers are : ";
     for(auto c:vec)
     cout<<c<<" ";
-    cout<<"Maximum area is : "<<maxArea(vector<int>&vec);
+    cout<<"Maximum area is : "<<maxArea(vec);
     
     
 }
